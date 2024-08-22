@@ -3,7 +3,7 @@
  ## Objetivo
  - #### Busco me destacar profissionalmente desenvolvendo soluções inovadoras e eficientes. Acredito no poder da programação para transformar ideias em realidade e resolver problemas complexos. Estou à procura de uma oportunidade de estágio para aplicar meus conhecimentos, aprender com profissionais experientes e contribuir para projetos significativos.
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/aldoardo)
+[![Linkedin](https://www.linkedin.com/in/aldoardo/?original_referer=)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aldoardoalves@gmail.com?subject=Contato)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](Discordapp.com/users/674762214418284575)
 
