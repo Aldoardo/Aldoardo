@@ -1,7 +1,7 @@
 ## Sobre Mim
  - #### Olá! Me chamo Aldoardo, sou estudante de computação com uma paixão por tecnologia e programação.
  ## Objetivo
- - #### Busco me destacar profissionalmente desenvolvendo soluções inovadoras e eficientes. Utilizo este perfil do GitHub para hospedar e compartilhar meus projetos pessoais, exercícios da faculdade e outras iniciativas. Aqui, você encontrará uma variedade de repositórios que demonstram minhas habilidades em programação e meu compromisso com o aprendizado contínuo e a inovação..
+ - #### Busco me destacar profissionalmente desenvolvendo soluções inovadoras e eficientes. Utilizo este perfil do GitHub para hospedar e compartilhar meus projetos pessoais, exercícios da faculdade e outras iniciativas. Aqui, você encontrará uma variedade de repositórios que demonstram minhas habilidades em programação e meu compromisso com o aprendizado contínuo e a inovação.
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aldoardo/?original_referer=)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aldoardoalves@gmail.com?subject=Contato)
